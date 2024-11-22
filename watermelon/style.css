@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+}
+canvas{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    
+}
